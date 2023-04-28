@@ -1,0 +1,32 @@
+/* #id has specifity 100 */
+/* .group has specifity 10 */
+/* !important has specifity 10,000 */
+/* 
+    properties of css
+    1.color
+    2.background
+    3.font
+    4.
+    
+*/
+
+/* class link - band */
+/* id amir - cairokee */
+.links 
+{
+    color:black;
+
+}
+h2
+{
+    color:red;
+}
+.band
+{
+    color:green;
+
+}
+.ul
+{
+    color:rgb(0, 26, 255)
+}
